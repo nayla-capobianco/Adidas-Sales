@@ -1,4 +1,4 @@
-# Adisas-Sales Statistic Analysis
+# Adidas-Sales Statistic Analysis
 Data source
 Adidas US Sales 
 An Adidas sales dataset is a compilation of information on the sales performance of Adidas products. It may include crucial details such as the number of units sold, total revenue generated, sales location, product type, and any other relevant data.
