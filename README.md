@@ -6,6 +6,9 @@ An Adidas sales dataset is a compilation of information on the sales performance
 
 Source data: https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset?resource=download
 
+
+
+
 DATASET: This is internal data from the Adidas company
 
 DATA COLLECTION: This data is administratively collected by Adidas company the forma automatic.
@@ -15,6 +18,9 @@ DATA CONTENTS: This data set presents us with the following information: Retail,
 DATA LIMITATIONS: By the amount of data the dataset has, it's a small sample of Adidas actual sales.
 
 DATA RELEVANCE: This dataset is very important for the project because we are going to study the Adidas market.
+
+
+
 
 Why my choice?
 
@@ -41,6 +47,7 @@ Why my choice?
 I also believe that I will be able to analyze the data and draw conclusions that can help the company make decisions in the future.
 
 
+
  
 Data profile
  
@@ -51,11 +58,19 @@ Considering that our data is a large sample, we must be cautious when interpreti
 
 descripción general del Proyecto: Adidas sales
 
-With the information of adidas salts in the United States for the years 2020-2021 we need a summary of what happened on Adidas can happen in the following years
+With the information of adidas salts in the United States for the years 2020-2021 we need a summary of what happened on Adidas can happen in the following 
+
+
+
+
 
 Objective: This project will find how to increase sales in 2022 and its forecast
 
 Reach: With the results obtained, the decisions for 2022 will be made.
+
+
+
+
 
 Stakeholders:
 
@@ -68,6 +83,10 @@ Stakeholders:
 Success factors:
 
 The project should show the past and future and the percentage of growth.
+
+
+
+
 
 Questions: 
 
