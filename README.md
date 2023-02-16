@@ -19,44 +19,14 @@ DATA LIMITATIONS: By the amount of data the dataset has, it's a small sample of 
 
 DATA RELEVANCE: This dataset is very important for the project because we are going to study the Adidas market.
 
-
-
-
-Why my choice?
-
-☒ I will work with this dataset because it has the necessary specifications
-
-☒ Be open source
-
-☒ Comes from an authoritative source 
-
-☒Include non-anonymous column names 
-
-☒ Be recent 
-
-☒ Contains continuous variables 
-
-☒ Contains categorical variables 
-
-☒ Contains at least 1500 rows 
-
-☒ Includes geographic object 
-
-☒ Contains temporary data 
-
-I also believe that I will be able to analyze the data and draw conclusions that can help the company make decisions in the future.
-
-
-
- 
 Data profile
  
-Consider limitations and ethics.
+## Consider limitations and ethics.
 
 Considering that our data is a large sample, we must be cautious when interpreting the results and making projections. From an ethical perspective, we do not identify risks with data.
 
 
-descripción general del Proyecto: Adidas sales
+## descripción general del Proyecto: Adidas sales
 
 With the information of adidas salts in the United States for the years 2020-2021 we need a summary of what happened on Adidas can happen in the following 
 
@@ -64,7 +34,7 @@ With the information of adidas salts in the United States for the years 2020-202
 
 
 
-Objective: This project will find how to increase sales in 2022 and its forecast
+## Objective: This project will find how to increase sales in 2022 and its forecast
 
 Reach: With the results obtained, the decisions for 2022 will be made.
 
@@ -72,7 +42,7 @@ Reach: With the results obtained, the decisions for 2022 will be made.
 
 
 
-Stakeholders:
+## Stakeholders:
 
 •	Sales Department
 
@@ -80,7 +50,7 @@ Stakeholders:
 
 •	Retail premises.
 
-Success factors:
+## Success factors:
 
 The project should show the past and future and the percentage of growth.
 
@@ -88,7 +58,7 @@ The project should show the past and future and the percentage of growth.
 
 
 
-Questions: 
+## Questions: 
 
 These questions will help identify trends and factors affecting sales, allowing the company to take strategic steps to improve future sales.
 
