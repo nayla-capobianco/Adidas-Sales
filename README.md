@@ -7,7 +7,9 @@ An Adidas sales dataset is a compilation of information on the sales performance
 Source data: https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset?resource=download
 
 DATASET: This is internal data from the Adidas company
+
 DATA COLLECTION: This data is administratively collected by Adidas company the forma automatic.
+
 DATA CONTENTS: This data set presents us with the following information: Retail, retail id, invoice data, region, state, city, product, price per unit, units sold, total sales, operating profit, operating margin, and sales method.
 DATA LIMITATIONS: By the amount of data the dataset has, it's a small sample of Adidas actual sales.
 DATA RELEVANCE: This dataset is very important for the project because we are going to study the Adidas market.
