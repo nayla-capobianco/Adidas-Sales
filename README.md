@@ -1,5 +1,4 @@
-# Adisas-Sales
- Statistic Analysis
+# Adisas-Sales Statistic Analysis
 Data source
 Adidas US Sales 
 An Adidas sales dataset is a compilation of information on the sales performance of Adidas products. It may include crucial details such as the number of units sold, total revenue generated, sales location, product type, and any other relevant data.
@@ -19,14 +18,14 @@ DATA LIMITATIONS: By the amount of data the dataset has, it's a small sample of 
 
 DATA RELEVANCE: This dataset is very important for the project because we are going to study the Adidas market.
 
-Data profile
+
  
 ## Consider limitations and ethics.
 
 Considering that our data is a large sample, we must be cautious when interpreting the results and making projections. From an ethical perspective, we do not identify risks with data.
 
 
-## descripción general del Proyecto: Adidas sales
+## Descripción general del Project: Adidas sales
 
 With the information of adidas salts in the United States for the years 2020-2021 we need a summary of what happened on Adidas can happen in the following 
 
@@ -34,7 +33,9 @@ With the information of adidas salts in the United States for the years 2020-202
 
 
 
-## Objective: This project will find how to increase sales in 2022 and its forecast
+## Objective:
+
+This project will find how to increase sales in 2022 and its forecast
 
 Reach: With the results obtained, the decisions for 2022 will be made.
 
